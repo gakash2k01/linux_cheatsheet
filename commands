@@ -1,3 +1,4 @@
+Navigation:
 ctrl+ alt+t : This opens the terminal on my PC.
 Up arrow : To tranverse through the history to use previously used commands.
 pwd : Prints working directory.
@@ -9,4 +10,13 @@ Absolute path starts with front slash "/", whereas, relative path doesn't.
 ".." : This is used for the parent directory. It can be used several times to go up the heiraacy. ef "../../"
 cd <path> : to move to a directory. Not providing path takes to the home directory.
 Use tab for autocomplete. If there are mutiple options, nothing happens. Press twice to see all options.
+
+Files:
+file [path] : This is used to determine what kind of a file a perticular file is.
+Note: Linux is a case sensitive language.
+Avoid spaces in file names. If used, to access a file, write the name is single or double quotes.
+We can also use backslash "\" to nullify the meaning of special characters.
+Auto completion using tab space automatically nullifies the space.
+To make a file hidden, start it's name with a full stop.
+ls does not show hidden files. So use the optional command -a. eg, ls -a Documents
 
