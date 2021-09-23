@@ -1,0 +1,12 @@
+ctrl+ alt+t : This opens the terminal on my PC.
+Up arrow : To tranverse through the history to use previously used commands.
+pwd : Prints working directory.
+ls : Lists what we have in the current location.
+ls [-l] [path] : It is used for long listing the current location or the path provided.
+Absolute path starts with front slash "/", whereas, relative path doesn't.
+"~" : This is the shortcut for the home directory. In my case for /home/Akash/
+"." : This refers to the current directory.
+".." : This is used for the parent directory. It can be used several times to go up the heiraacy. ef "../../"
+cd <path> : to move to a directory. Not providing path takes to the home directory.
+Use tab for autocomplete. If there are mutiple options, nothing happens. Press twice to see all options.
+
