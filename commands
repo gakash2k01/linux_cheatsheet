@@ -24,3 +24,13 @@ Manual Pages:
 man <command to look up> : This is used to open the manual for any command.
 man -k <search term> : To search a keyword in the manual.
 To search in a manual page, put a slash before the term.
+
+File Manipulation:
+mkdir [options] <directory> : It is used to make a directory.
+-p as an option creates parent directory as required.
+-v as an option tells whatever it is doing.
+rmdir [options] <directory> : It is used to remove the directory.
+Note: rmdir removes only empty directory in this way.
+touch [options] <filename> : To create a blank file.
+cp [options] <source> <destination> : It is used to copy a file.
+
