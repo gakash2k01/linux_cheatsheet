@@ -20,3 +20,7 @@ Auto completion using tab space automatically nullifies the space.
 To make a file hidden, start it's name with a full stop.
 ls does not show hidden files. So use the optional command -a. eg, ls -a Documents
 
+Manual Pages:
+man <command to look up> : This is used to open the manual for any command.
+man -k <search term> : To search a keyword in the manual.
+To search in a manual page, put a slash before the term.
